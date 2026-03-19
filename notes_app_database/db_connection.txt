@@ -1,0 +1,4 @@
+# SQLite connection methods:
+# Python: sqlite3.connect('myapp.db')
+# Connection string: sqlite:////home/kavia/workspace/code-generation/smart-notes-application-246684-246704/notes_app_database/myapp.db
+# File path: /home/kavia/workspace/code-generation/smart-notes-application-246684-246704/notes_app_database/myapp.db
